@@ -1,0 +1,10 @@
+.Month{
+    text-align: center;
+    margin: 5px;
+    width: 140px;
+}
+li.MonthLi{
+    display: inline-block;
+    flex-shrink: 1;
+    flex-grow: 1;
+}
